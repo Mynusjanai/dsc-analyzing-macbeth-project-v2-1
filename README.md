@@ -78,3 +78,5 @@ This project should take you about an hour and a half to complete. If you're don
 
 ## Summary
 Congratulations! You've got some extra practice combining various data types into useful programming patterns and done an initial analysis of a classic text!
+
+Got it!
